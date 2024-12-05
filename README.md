@@ -44,6 +44,8 @@ Click investigate to get started!
 
   This will bring up the following screen. From here, rather than starting the playbook, you will want to first check the threat and see if we need to quarantine the machine. 
 
+  <img width="984" alt="Screenshot 2024-12-05 at 1 53 54 PM" src="https://github.com/user-attachments/assets/c40c099a-5eba-4a9d-83f9-37da5b763833">
+
   Since the file has a possibility of containing malicious code, we should first check the hash against known databases of flagged files. To do this, we can use a website called [Virus Total](https://www.virustotal.com). This is a free website that provides tools for analyzing and detecting malicious content, including files, URLs, domains, and IP addresses. It aggregates results from multiple antivirus engines, URL scanners, and tools to offer a comprehensive view of potential threats.
 
   Once in Virus Total, we want to seach the hash "
